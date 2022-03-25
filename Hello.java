@@ -4,8 +4,8 @@ public class Hello {
                 System.out.println("login");
 		System.out.println("logout");
 		System.out.println("Register");
-		SYstem.out.ptintln("what is Git?");
-
+		System.out.ptintln("what is Git?");
+                System.out.println("That's DVCS!");
 
 	}
 
