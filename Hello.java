@@ -1,4 +1,4 @@
-//For command line git tutorail
+//For command line git tutorial
 //Github modification
 public class Hello {
 	public main static void main(String[]args) {
