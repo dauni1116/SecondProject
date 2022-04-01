@@ -3,8 +3,7 @@
 //Local repository modification
 
 
-//For command line git tutorial
-//Github modification
+
 >>>>>>> origin/main
 public class Hello {
 	public main static void main(String[]args) {
